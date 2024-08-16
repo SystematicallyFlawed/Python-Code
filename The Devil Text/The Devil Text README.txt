@@ -1,0 +1,1 @@
+The Devil Text (TDT) is my first attempt at making a simple M rated text based game using python. Some spelling mistakes may be present.
