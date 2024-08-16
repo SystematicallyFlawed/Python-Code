@@ -1,0 +1,1 @@
+Run Writing Thru This (RWTT) is a program that replaces uncapitalized "i"s with capitalized "I"s. Works for both lone "i"s and "i've"
