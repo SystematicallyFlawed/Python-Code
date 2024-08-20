@@ -1,0 +1,1 @@
+Combat System Test (CST) is my first attempt at making combat for a text based game. Currently works by assigning player inputted values to variables at random.
