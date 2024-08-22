@@ -1,0 +1,1 @@
+Keypress Script (KPS) is a script that pushes the keys a-z and various others at roughly 0.001 second intervals.
