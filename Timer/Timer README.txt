@@ -1,0 +1,1 @@
+Timer is a timer made using pygame that you can select the time (in minutes) that it counts down from.

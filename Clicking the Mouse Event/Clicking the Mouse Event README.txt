@@ -1,0 +1,1 @@
+Clicking the Mouse Event (CME) is a program made using pygame that moves a box to were you click the mouse.
